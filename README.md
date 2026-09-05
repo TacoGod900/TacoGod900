@@ -4,7 +4,7 @@ I build software, experiment with applied AI, and work on products from idea thr
 
 I'm currently building **Headcanon**, an early-stage marketplace and licensing platform, alongside AI and computer-vision projects.
 
-**[Watch my 55-second project reel](YOUR_VIDEO_LINK)**
+**[Watch my 55-second project reel](greyssonshowreel.mp4)**
 
 ---
 
