@@ -11,14 +11,22 @@
 ### core skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,c,js,ts,postgres,pytorch,fastapi,nodejs,express,sqlite,redis,git,docker,linux,vite,electron&theme=dark&perline=10" alt="skill icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,c,react,nextjs,nodejs,supabase,postgres,vercel,git,githubactions&theme=dark&perline=13" alt="skill icons" />
 </p>
 
-- **languages:** python · c++ · rust · go · c · javascript · typescript · sql
-- **ml & systems:** PyTorch · ONNX · CUDA · pybind11 · MLX · Continuous Batching
-- **backend:** FastAPI · Node.js · Express · REST APIs · RPC
-- **databases:** SQLite · PostgreSQL · Redis
-- **tools:** Git · Docker · Linux · Apple Silicon / Metal · Vite · Electron
+- **languages:** typescript · javascript · python · c# · c · sql
+- **web & apps:** React · Next.js · Node.js · REST APIs · Vite
+- **backend & data:** Supabase · PostgreSQL · Stripe · GitHub API
+- **ai & ml:** LLM agents · AI-powered apps · Jupyter · Kaggle
+- **tools:** Git · GitHub Actions · Vercel · Claude Code
+
+### projects
+
+- **headcanon** — fictional-first marketplace and licensing platform (founder) · TypeScript
+- **[customer-zero](https://customer-zero-eta.vercel.app)** — an AI customer that finds cross-system SaaS bugs with real Stripe, Supabase and GitHub evidence · TypeScript
+- **[aniryk](https://aniryk.vercel.app)** — anime streaming site · TypeScript
+- **argus** — autonomous site tester · TypeScript
+- **Orchard** — C# project
 
 ### contribution graph
 
