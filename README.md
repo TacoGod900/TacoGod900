@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Henryk, 16, the coder" width="100%" />
+  <img src="assets/banner.png" alt="banner" width="100%" />
 </p>
 
 ### about
@@ -24,12 +24,6 @@
 
 <p align="center">
   <a href="https://github.com/TacoGod900">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TacoGod900&theme=github-compact&hide_border=true&area=true&custom_title=Henryk's%20Contribution%20Graph" alt="contribution graph" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TacoGod900">
-    <img src="https://ghchart.rshah.org/TacoGod900" alt="contribution calendar" width="100%" />
+    <img src="assets/activity-graph.svg" alt="Henryk's contribution graph" width="100%" />
   </a>
 </p>
