@@ -4,9 +4,9 @@
 
 ### about
 
-16-year-old software engineer, systems builder & ml enthusiast. building high-performance systems, visual ai tooling, and developer infrastructure.
+16-year-old software engineer, systems builder & ml enthusiast. founder of headcanon. building high-performance systems, visual ai tooling, and developer infrastructure.
 
-📍 Melbourne &nbsp;·&nbsp; 🐙 [github.com/TacoGod900](https://github.com/TacoGod900)
+🌐 [portfolio](https://YOUR-PORTFOLIO-URL.com) &nbsp;·&nbsp; ✉️ [henrykgreysson78@gmail.com](mailto:henrykgreysson78@gmail.com) &nbsp;·&nbsp; 📍 Melbourne
 
 ### core skills
 
