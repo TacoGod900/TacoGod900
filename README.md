@@ -4,7 +4,7 @@
 
 ### about
 
-16-year-old software engineer, systems builder & ml enthusiast. founder of headcanon. building high-performance systems, visual ai tooling, and developer infrastructure.
+16-year-old software engineer and founder of headcanon, a fictional-first marketplace and licensing platform. building full-stack web apps, ai agents, and developer tooling in typescript and python.
 
 🌐 [portfolio](https://YOUR-PORTFOLIO-URL.com) &nbsp;·&nbsp; ✉️ [henrykgreysson78@gmail.com](mailto:henrykgreysson78@gmail.com) &nbsp;·&nbsp; 📍 Melbourne
 
