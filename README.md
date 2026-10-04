@@ -33,7 +33,8 @@
 - **[headcanon](https://github.com/TacoGod900/headcanon-showcase)** — fictional-first marketplace and licensing platform I founded · React · Cloudflare Workers · D1 · [▶ watch the demo](https://www.loom.com/share/540d6dbd1be54ce28ee9439d2786e891)
 - **[argus](https://github.com/TacoGod900/argus)** — an AI engineer that verifies code changes by actually running the app in a browser and returning PASS/FAIL with a root cause · TypeScript · Playwright · Claude Agent SDK
 - **[customer-zero](https://github.com/TacoGod900/customer-zero)** — an AI customer that finds cross-system SaaS bugs with real Stripe, Supabase and GitHub evidence · TypeScript · [live](https://customer-zero-eta.vercel.app)
-- **[orchard](https://github.com/TacoGod900/Orchard)** — experimental clean-room Windows dev platform: a SwiftUI-shaped subset lowered to JSON IR and rendered with .NET · C# · Swift · [extended mirror](https://github.com/TacoGod900/orchard-mirror)
+- **[orchard](https://github.com/TacoGod900/Orchard)** — experimental clean-room Windows dev platform: a SwiftUI-shaped subset lowered to JSON IR and rendered with .NET · C# · Swift
+- **[orchard mirror](https://github.com/TacoGod900/orchard-mirror)** — iPhone screen and touch mirroring for Windows over Apple's CoreDevice services, with hardware HEVC decode and audio · C# · Python
 - **[habitat](https://github.com/TacoGod900/habitat)** — scan a room, design in it, see it in AR at real scale · native iOS built from Windows via a macOS CI runner · Swift · ARKit
 - **[aniryk](https://aniryk.vercel.app)** — anime streaming site · TypeScript
 - **[portfolio](https://github.com/TacoGod900/tacogod900.github.io)** — the Persona 3 Reload-style menu above · SvelteKit · Three.js
