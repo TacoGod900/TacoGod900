@@ -2,10 +2,6 @@
   <img src="assets/banner-henryk-16.png" alt="banner" width="100%" />
 </p>
 
-### about
-
-16-year-old software engineer and founder of headcanon, a fictional-first marketplace and licensing platform. building full-stack web apps, ai agents, and developer tooling in typescript and python.
-
 🌐 [portfolio](https://tacogod900.github.io) &nbsp;·&nbsp; ✉️ [henrykgreysson78@gmail.com](mailto:henrykgreysson78@gmail.com) &nbsp;·&nbsp; 📍 Melbourne
 
 ### core skills
